@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: deepke
+Version: 2.0.2
+Summary: DeepKE 是基于 Pytorch 的深度学习中文关系抽取处理套件。
+Home-page: https://github.com/zjunlp/deepke
+Author: ZJUNLP
+Author-email: zhangningyu@zju.edu.cn
+License: MIT
+Keywords: pip,RE,NER,AE
+Platform: any
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+client
+
